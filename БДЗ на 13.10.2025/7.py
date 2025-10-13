@@ -2,7 +2,7 @@ import sympy as sp
 
 x = sp.Symbol('x')
 f = (x**2-1)*sp.ln(x)
-a = sp.limit(f/x**.0001,x,0)
+a = sp.limit(f/x**-.00000000000000000000000000000000000000000000000000000001,x,0)
 print(a)
 
 def range(start,end,step):
