@@ -1,6 +1,6 @@
 import sympy as sp
 
 x = sp.Symbol('x')
-f = sp.sin((x**2+1)**(1/2))-sp.sin((x**2-1)**(1/2))
+f = sp.sin(sp.sqrt(x**2+1))-sp.sin(sp.sqrt(x**2-1))
 a = sp.limit(f,x,sp.oo)
 print(a)
