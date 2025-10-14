@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 x = sp.Symbol('x')
-y = 1/(np.exp(x**2-1))
+y = 1/(sp.exp(x**2-1))
 x_r = 1
 a1 = sp.limit(y,x,x_r,'-')
 a2 = sp.limit(y,x,x_r,'+')
