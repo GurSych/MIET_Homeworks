@@ -4,8 +4,8 @@ My homeworks in MIET - for personal using and sharing code with lecturers
 
 # Using Repository
 
-**Repository is personal.** All README's code below will be in Russian.`<br>`
-Репозиторий разделён на отдельные папки по дням, на которые (или в которые) выполнялись домашние задания `<br>`
+**Repository is personal.** All README's code below will be in Russian.<br>
+Репозиторий разделён на отдельные папки по дням, на которые (или в которые) выполнялись домашние задания <br>
 Для удобства и лакончиности, папки имеют названия, использующие формат DD.MM.YYYY (ДД.ММ.ГГГГ). В следующем разделе приведены полные названия домашних работ и названия соотвествующих им папок
 
 # Домашние работы
